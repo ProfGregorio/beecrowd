@@ -1,4 +1,3 @@
-
 while True:
     xy = list(input().split(" "))
     x = int(xy[0])
